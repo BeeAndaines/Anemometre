@@ -4,6 +4,9 @@ Les abeilles sont sensibles au vent. C’est pour cela que les apiculteurs dispo
 et des courants d’air.  
 Quand la vitesse du vent dépasse 30km/h, les abeilles hésitent à sortir. Elles ne pourront pas aller récolter pollen et nectar.
 
+L'anémomètre est composé de 3 coupoles fixées à un mât mobile sur un axe. 
+Ces éléments ont été dessiné en 3D sur tinkercad, et imprimés au FabLab des Bains douches numériques de Flers.
+
 Pour compter le nombre de tours, nous allons placer un interrupteur Reed à la base de l’anémomètre 
 et un aimant sur l'axe de l’anémomètre. Nous programmons le compteur grâce à l'arduino.
 A chaque passage de l’aimant, l’interrupteur Reed laisse passer un courant électrique, 
